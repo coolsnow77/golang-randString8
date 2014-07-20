@@ -1,3 +1,8 @@
+/*
+generate  8 randString 
+randStr : a-zA-Z0-9(string)
+rstr8	: generate  string with length  8
+*/
 package main
 
 import (
